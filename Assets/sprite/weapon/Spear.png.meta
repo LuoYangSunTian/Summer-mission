@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 05e15b9fe5b7edd41b24b941c8a8aa47
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spear_0
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 451
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6b21576a4ec174fb698b5fc41f9098
+      internalID: 790647983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      32x32_PixelWeapons_Free_43: 391318995
+      32x32_PixelWeapons_Free_64: -1559760661
+      32x32_PixelWeapons_Free_32: -1118214941
+      32x32_PixelWeapons_Free_60: 1616856225
+      32x32_PixelWeapons_Free_33: 862508083
+      32x32_PixelWeapons_Free_53: 1454014034
+      32x32_PixelWeapons_Free_3: 1213123987
+      32x32_PixelWeapons_Free_45: 552760142
+      32x32_PixelWeapons_Free_24: 1333745828
+      32x32_PixelWeapons_Free_58: 1478876433
+      32x32_PixelWeapons_Free_21: 1390183275
+      32x32_PixelWeapons_Free_38: -733891274
+      32x32_PixelWeapons_Free_61: -1142460444
+      32x32_PixelWeapons_Free_13: 1320972625
+      32x32_PixelWeapons_Free_26: 745965820
+      32x32_PixelWeapons_Free_51: -1727193740
+      32x32_PixelWeapons_Free_42: 508829857
+      32x32_PixelWeapons_Free_56: -2023377934
+      32x32_PixelWeapons_Free_7: 1092435700
+      32x32_PixelWeapons_Free_20: 1638906434
+      32x32_PixelWeapons_Free_68: -1933067537
+      32x32_PixelWeapons_Free_73: -1933272083
+      32x32_PixelWeapons_Free_36: -583171160
+      32x32_PixelWeapons_Free_74: -554630176
+      32x32_PixelWeapons_Free_78: 1520021671
+      32x32_PixelWeapons_Free_84: -1946665259
+      32x32_PixelWeapons_Free_82: 1516765843
+      32x32_PixelWeapons_Free_81: -669605278
+      32x32_PixelWeapons_Free_12: -1006594048
+      32x32_PixelWeapons_Free_41: -1506905673
+      32x32_PixelWeapons_Free_57: 689805772
+      32x32_PixelWeapons_Free_89: 492761086
+      32x32_PixelWeapons_Free_31: -203231976
+      32x32_PixelWeapons_Free_75: 1144239866
+      32x32_PixelWeapons_Free_65: -103328646
+      32x32_PixelWeapons_Free_71: -1588805883
+      32x32_PixelWeapons_Free_66: 1164906924
+      32x32_PixelWeapons_Free_2: -1307462730
+      32x32_PixelWeapons_Free_23: -100107952
+      32x32_PixelWeapons_Free_80: 1811576656
+      32x32_PixelWeapons_Free_9: 1971761236
+      32x32_PixelWeapons_Free_15: -1559698162
+      32x32_PixelWeapons_Free_63: 1324164594
+      32x32_PixelWeapons_Free_8: -958433258
+      32x32_PixelWeapons_Free_77: -1140587871
+      32x32_PixelWeapons_Free_70: -743931305
+      32x32_PixelWeapons_Free_79: -222966144
+      32x32_PixelWeapons_Free_22: -1674326136
+      32x32_PixelWeapons_Free_44: -1672097029
+      32x32_PixelWeapons_Free_50: 1103915292
+      32x32_PixelWeapons_Free_86: 1038300817
+      32x32_PixelWeapons_Free_69: 365965729
+      32x32_PixelWeapons_Free_54: -1701474005
+      32x32_PixelWeapons_Free_90: -1577629904
+      32x32_PixelWeapons_Free_4: 411474325
+      32x32_PixelWeapons_Free_25: -565300
+      32x32_PixelWeapons_Free_14: -776093643
+      32x32_PixelWeapons_Free_37: 1403610297
+      32x32_PixelWeapons_Free_62: -1340696031
+      32x32_PixelWeapons_Free_39: 207560336
+      32x32_PixelWeapons_Free_59: -746015802
+      32x32_PixelWeapons_Free_11: -676188152
+      32x32_PixelWeapons_Free_88: 209742535
+      32x32_PixelWeapons_Free_83: 678861690
+      32x32_PixelWeapons_Free_29: 179846816
+      32x32_PixelWeapons_Free_48: 1688267929
+      Spear_0: 790647983
+      32x32_PixelWeapons_Free_1: -778385754
+      32x32_PixelWeapons_Free_18: -1809637759
+      32x32_PixelWeapons_Free_16: -1054777084
+      32x32_PixelWeapons_Free_17: 1870243041
+      32x32_PixelWeapons_Free_10: 1133266799
+      32x32_PixelWeapons_Free_28: -1727747861
+      32x32_PixelWeapons_Free_5: 1183700204
+      32x32_PixelWeapons_Free_6: -1921119863
+      32x32_PixelWeapons_Free_76: 1321674118
+      32x32_PixelWeapons_Free_19: -529521312
+      32x32_PixelWeapons_Free_72: 35024586
+      32x32_PixelWeapons_Free_35: -1727656599
+      32x32_PixelWeapons_Free_52: 281894031
+      32x32_PixelWeapons_Free_49: 1576802578
+      32x32_PixelWeapons_Free_40: 1886046314
+      32x32_PixelWeapons_Free_67: 1049002544
+      32x32_PixelWeapons_Free_30: -993853230
+      32x32_PixelWeapons_Free_0: -283471610
+      32x32_PixelWeapons_Free_55: 1855970220
+      32x32_PixelWeapons_Free_46: 2147418671
+      32x32_PixelWeapons_Free_27: 1560102137
+      32x32_PixelWeapons_Free_87: -1137377566
+      32x32_PixelWeapons_Free_34: -1210632846
+      32x32_PixelWeapons_Free_85: 145907135
+      32x32_PixelWeapons_Free_47: -696533361
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4514577f8b92ec4cb83470acf955b93, type: 3}
+  m_Name: SkillData_So
+  m_EditorClassIdentifier: 
+  skillDetailsList:
+  - skillIndex: 101
+    skillType: 0
+    SkillIcon: {fileID: 2018335028, guid: 0eb2a8fe8b61b894cb24155e4a7d637d, type: 3}
+  - skillIndex: 102
+    skillType: 0
+    SkillIcon: {fileID: 1926978062, guid: 752a2cbb7d4875a43bcc4ee67ef0bc2f, type: 3}
+  - skillIndex: 103
+    skillType: 0
+    SkillIcon: {fileID: 1997890337, guid: 1f07908e3ca5a2d44bde98766bc8e4ef, type: 3}
+  - skillIndex: 201
+    skillType: 1
+    SkillIcon: {fileID: 21300000, guid: 75e2dcfb9bdf7d4448903631c7224b7e, type: 3}
+  - skillIndex: 202
+    skillType: 1
+    SkillIcon: {fileID: -1227061411, guid: 5c733833496122842a4014ea463de411, type: 3}
+  - skillIndex: 203
+    skillType: 1
+    SkillIcon: {fileID: 1585058306, guid: 640645ad32dbdae46a802f0504c490e8, type: 3}
+  - skillIndex: 301
+    skillType: 2
+    SkillIcon: {fileID: -2007841230, guid: a329733215fbbe14ca29c6987303a5ff, type: 3}
+  - skillIndex: 302
+    skillType: 2
+    SkillIcon: {fileID: 142817032, guid: 80d22e190807026449257b31c820b714, type: 3}
+  - skillIndex: 303
+    skillType: 2
+    SkillIcon: {fileID: 465580616, guid: dd6245616226c54409bc354b7a1e4b0a, type: 3}
+  - skillIndex: 401
+    skillType: 3
+    SkillIcon: {fileID: -1172265700, guid: 1aedbeba7d4f3db4aae195383d86d876, type: 3}
+  - skillIndex: 402
+    skillType: 3
+    SkillIcon: {fileID: 1926222569, guid: 884f83a7b8442d440b4a6647c9fd67b7, type: 3}
+  - skillIndex: 403
+    skillType: 3
+    SkillIcon: {fileID: 1375321061, guid: 290c168dbaf337b469cf3e8018d80c7f, type: 3}
+  - skillIndex: 501
+    skillType: 4
+    SkillIcon: {fileID: -788771810, guid: 9c292fadd9de5004486239d28825f29b, type: 3}
+  - skillIndex: 502
+    skillType: 4
+    SkillIcon: {fileID: -568927530, guid: 02685a0e7b537544686c47f077415cdb, type: 3}
+  - skillIndex: 503
+    skillType: 4
+    SkillIcon: {fileID: 1659503885, guid: 549bb5a1ed048d6438b03608ed77169d, type: 3}

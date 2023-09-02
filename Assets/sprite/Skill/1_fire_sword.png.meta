@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: 1f07908e3ca5a2d44bde98766bc8e4ef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1_fire_sword_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 435
+        width: 185
+        height: 145
+      alignment: 9
+      pivot: {x: 0.06860826, y: 0.4603423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02c2f44309329a4a89462739a6b5c85
+      internalID: -219175445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_fire_sword_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 435
+        width: 185
+        height: 145
+      alignment: 9
+      pivot: {x: 0.06066408, y: 0.477047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fdd04c5ca6177438a29740642a39c4
+      internalID: -652380328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_fire_sword_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 435
+        width: 185
+        height: 145
+      alignment: 9
+      pivot: {x: 0.44040295, y: 0.47539967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d53861d8d2ef4c42b168c79a5bfd9ef
+      internalID: 118874683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_fire_sword_3
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 435
+        width: 185
+        height: 145
+      alignment: 9
+      pivot: {x: 0.4354568, y: 0.4588259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa199ce46ae240f48bb71dc01fc96c35
+      internalID: 1311085716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_fire_sword_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 185
+        height: 145
+      alignment: 9
+      pivot: {x: 0.43689707, y: 0.47539967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3999bc9a8070c0499532f3db3418c52
+      internalID: -1387998349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_fire_sword_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 290
+        width: 185
+        height: 145
+      alignment: 9
+      pivot: {x: 0.43339133, y: 0.4776361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ad0805f1fde2f47837e532c4c036f5
+      internalID: -1148453189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_fire_sword_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 290
+        width: 185
+        height: 145
+      alignment: 9
+      pivot: {x: 0.42988577, y: 0.47539967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a3fd7551cc989488391f489fa08e49
+      internalID: -1332370436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_fire_sword_7
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 290
+        width: 185
+        height: 145
+      alignment: 9
+      pivot: {x: 0.46772823, y: 0.4780404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0925501deb5d64148a3dabe304db665f
+      internalID: -1418747418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_fire_sword_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 185
+        height: 145
+      alignment: 9
+      pivot: {x: 0.4408509, y: 0.48967695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecf6caff0558bd4ea50323b3a6a37cb
+      internalID: 1997890337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_fire_sword_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 145
+        width: 185
+        height: 145
+      alignment: 9
+      pivot: {x: 0.25115868, y: 0.4752957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b367947668a2445849b28c45fc89d4
+      internalID: 1844978499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_fire_sword_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 145
+        width: 185
+        height: 145
+      alignment: 9
+      pivot: {x: 0.1674709, y: 0.4723354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b0cb1d8dd78b54b98a4b5957f065e2
+      internalID: -294833712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_fire_sword_11
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 146
+        width: 185
+        height: 145
+      alignment: 9
+      pivot: {x: 0.19722834, y: 0.47964457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d9e4acc08d4ac449de1057a109f4b6
+      internalID: 2128919540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_fire_sword_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 185
+        height: 145
+      alignment: 9
+      pivot: {x: 0.17298174, y: 0.4807856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e162dd03f6ffdf488aa604f2bd54083
+      internalID: 814905678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_fire_sword_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 185
+        height: 145
+      alignment: 9
+      pivot: {x: 0.15361881, y: 0.46431595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71da758b7aba88f49b4be175886be4c1
+      internalID: 969230569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_fire_sword_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 185
+        height: 145
+      alignment: 9
+      pivot: {x: 0.15577014, y: 0.46157107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f3e79dd686a554982f3c8f402d4798
+      internalID: -1796966071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1_fire_sword_1: -652380328
+      1_fire_sword_14: -1796966071
+      1_fire_sword_13: 969230569
+      1_fire_sword_8: 1997890337
+      1_fire_sword_2: 118874683
+      1_fire_sword_12: 814905678
+      1_fire_sword_0: -219175445
+      1_fire_sword_10: -294833712
+      1_fire_sword_11: 2128919540
+      1_fire_sword_7: -1418747418
+      1_fire_sword_5: -1148453189
+      1_fire_sword_4: -1387998349
+      1_fire_sword_3: 1311085716
+      1_fire_sword_9: 1844978499
+      1_fire_sword_6: -1332370436
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

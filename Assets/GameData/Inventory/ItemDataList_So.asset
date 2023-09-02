@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 421c2a60d0b3816498c96b208c8f6384, type: 3}
+  m_Name: ItemDataList_So
+  m_EditorClassIdentifier: 
+  itemDetailsList:
+  - itemID: 1001
+    itemName: "\u53E4\u8001\u7684\u5F13"
+    itemType: 0
+    itemIcon: {fileID: -188421696, guid: 922b06799b84df641b20ce3a8fc7badf, type: 3}
+    itemOnWorldSprite: {fileID: -188421696, guid: 922b06799b84df641b20ce3a8fc7badf,
+      type: 3}
+    itemDescription: "\u4E00\u628A\u76F8\u5F53\u53E4\u8001\u7684\u5F13\uFF0C\u867D\u7136\u5386\u53F2\u4E45\u8FDC\uFF0C\u4F46\u5C81\u6708\u6CA1\u6709\u5728\u4E0A\u9762\u7559\u4E0B\u4EFB\u4F55\u75D5\u8FF9......"
+    itemRadius: 0
+    canPickUp: 1
+    itemPrice: 0
+    sellPercentage: 0
+  - itemID: 1002
+    itemName: "\u6E05\u98CE\u4E0D\u8BED"
+    itemType: 0
+    itemIcon: {fileID: -1357581690, guid: 922b06799b84df641b20ce3a8fc7badf, type: 3}
+    itemOnWorldSprite: {fileID: -1357581690, guid: 922b06799b84df641b20ce3a8fc7badf,
+      type: 3}
+    itemDescription: "\u7528\u5FC3\u624D\u80FD\u8046\u542C\u98CE\u7684\u4F4E\u8BED"
+    itemRadius: 0
+    canPickUp: 1
+    itemPrice: 0
+    sellPercentage: 0
+  - itemID: 2001
+    itemName: "\u521D\u7EA7\u6CD5\u529B\u6062\u590D\u836F"
+    itemType: 4
+    itemIcon: {fileID: 21300000, guid: 6ba4fade44ce8fd49b454c891af635fc, type: 3}
+    itemOnWorldSprite: {fileID: 21300000, guid: 6ba4fade44ce8fd49b454c891af635fc,
+      type: 3}
+    itemDescription: "\u53EF\u4EE5\u6062\u590D\u5C11\u91CF\u6CD5\u529B"
+    itemRadius: 0
+    canPickUp: 1
+    itemPrice: 10
+    sellPercentage: 0
+  - itemID: 1000
+    itemName: "\u9B54\u6CD5\u89C9\u9192\u77F3"
+    itemType: 4
+    itemIcon: {fileID: 21300000, guid: bb16bf7dac495c84e80994e3cb41a207, type: 3}
+    itemOnWorldSprite: {fileID: 21300000, guid: bb16bf7dac495c84e80994e3cb41a207,
+      type: 3}
+    itemDescription: "\u89C9\u9192\u9B54\u6CD5\u6240\u5FC5\u9700\u7684\u7269\u54C1"
+    itemRadius: 0
+    canPickUp: 1
+    itemPrice: 9999999
+    sellPercentage: 0

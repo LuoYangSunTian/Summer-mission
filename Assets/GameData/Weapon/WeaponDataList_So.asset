@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd5c4f66713efce43909f29b4451b603, type: 3}
+  m_Name: WeaponDataList_So
+  m_EditorClassIdentifier: 
+  weaponDetailsList:
+  - weaponImage: {fileID: -188421696, guid: 922b06799b84df641b20ce3a8fc7badf, type: 3}
+    weaponId: 3001
+    weaponDamage: 0
+    weaponConsume: 0
+    weaponCriticalStrike: 0
+    weaponDescribe: "\u53E4\u8001\u7684\u5F13"
+    weaponName: 2
+    prince: 100
+  - weaponImage: {fileID: 207560336, guid: 09cba55c2413e0f4b802f50bb45a9b81, type: 3}
+    weaponId: 2001
+    weaponDamage: 15
+    weaponConsume: 0
+    weaponCriticalStrike: 35
+    weaponDescribe: "\u9EC4\u91D1\u5723\u67AA"
+    weaponName: 1
+    prince: 150
+  - weaponImage: {fileID: 206837840, guid: c519038d00d9f334eac2c2c4e4463c74, type: 3}
+    weaponId: 1001
+    weaponDamage: 15
+    weaponConsume: 0
+    weaponCriticalStrike: 25
+    weaponDescribe: "\u82F1\u96C4\u738B\u7684\u5251"
+    weaponName: 0
+    prince: 100
+  - weaponImage: {fileID: -1727193740, guid: 09cba55c2413e0f4b802f50bb45a9b81, type: 3}
+    weaponId: 4001
+    weaponDamage: 0
+    weaponConsume: 0
+    weaponCriticalStrike: 0
+    weaponDescribe: "\u8D24\u8005\u7684\u6CD5\u6756"
+    weaponName: 3
+    prince: 50
+  - weaponImage: {fileID: 1144239866, guid: 09cba55c2413e0f4b802f50bb45a9b81, type: 3}
+    weaponId: 5001
+    weaponDamage: 0
+    weaponConsume: 0
+    weaponCriticalStrike: 0
+    weaponDescribe: "\u4F20\u8BF4\u7684\u76FE"
+    weaponName: 4
+    prince: 250

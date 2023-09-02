@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cb62cfd0fe12ee4691c2f6d37bccb00, type: 3}
+  m_Name: TaskProgress
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: piece01
+    image: {fileID: 383974642, guid: f24cfdd29f3209c44afb3f51f1eea28d, type: 3}
+    text: "\u4F60\u7684\u4EFB\u52A1\u5B8C\u6210\u4E86\u5417\uFF1F"
+    task: {fileID: 0}
+    options: []

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BoundsConfiner
+  - Wall
+  - ItemParent
+  - Enemy
+  - PoolManager
+  - EnemyAttack
+  - Weapon
+  - PlayerCloseAttack
+  - PlayerDistanceAttack
+  - PlayerAttack
+  - CursorCanvas
+  - MagicValue
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - MiniMap
+  - HurtCheck
+  - Attack
+  - Enemy
+  - player
+  - object
+  - Layer 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 2425651459
+    locked: 0
+  - name: object
+    uniqueID: 4250941897
+    locked: 0
+  - name: instance
+    uniqueID: 4189426099
+    locked: 0
+  - name: front
+    uniqueID: 2683227511
+    locked: 0
+  - name: collision
+    uniqueID: 1375434861
+    locked: 0
